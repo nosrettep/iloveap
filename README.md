@@ -11,3 +11,5 @@ To see how forks, pull requests, and merges work with github:
   - Add your name to the list of aweome APers.
   - Commit your changes to your forked copy.
   - Put in a `pull request`, and see your changes get merged into the master branch.
+  
+If you don't have you SSH key linked to your GitHub account, then use `https://github.com/cs3157/iloveap.git` for the upstream repo.
