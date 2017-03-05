@@ -8,7 +8,7 @@ To see how forks, pull requests, and merges work with github:
   - Add the upstream repository: `git remote add upstream git@github.com:cs3157/iloveap.git`
   - Fetch any changes since you forked: `git fetch upstream`
   - Merge the changes, if necessary: `git merge upstream/master`
-  - Add your name to the list of aweome APers.
+  - Add your name to the list of awesome APers.
   - Commit your changes to your forked copy.
   - Put in a `pull request`, and see your changes get merged into the master branch.
   
